@@ -1,0 +1,37 @@
+problem bei stereoskopie: ermüdung der augen, kopfschmerzen, etc
+grund: vermutlich vor allem der konvergenz-akkomodations konflikt
+(neurophysiologischer regelkreis naheinstellungstrias (akkomodation, konvergenz, pupillenverengung))
+außerdem: kindliche entwicklung des auges könnte beeinträchtigt werden, nintendo empfiehlt beim 3ds den 3d modus erst ab 7 jahren
+scharfstellung des auges erfolgt durch 2 mechanismen: bildfrequenz des gesehenen bildes und abstandsschätzung durch stereopsis
+
+bei stereoskopischen displays führt eine änderung der virtuellen tiefe zur veränderten konvergenz der augen und damit zu einer
+angepassten akkomodation auf die virtuelle tiefe, wenn das bild dann unscharf wird, wird die akkomodation wieder angepasst bis es scharf ist
+
+tiefenwahrnehmung wird bestimmt sowohl durch beschaffenheit des bildes (perspektive, parallaxe, schatten, beleuchtung, etc)
+(psychologische hinweise)
+als auch physiologische hinweise (akkomodation, konvergenz, unterscheidung der bilder pro auge)
+
+ermüdungseffekte führen dazu das grade besonders beeindruckende effekte eher vermieden werden, da sie auch besonders ermüden
+
+lösung: lichtfelddisplay
+
+grundidee 4d lichtfeld: an jedem punkt der ebene das wird das licht richtungsabhängig beschrieben
+wenn man das lichtfeld exakt darstellen könnte wären alle probleme gelöst
+anwendungen: lichtfeldkamera, lichtfelddisplay (red hydrogen one)
+man kann fokusebene beliebig verschieben
+daher kann man auch das display direkt vors auge packen, kann sich optiken wie bei vr brillen sparen
+problem: auflösung, beugung
+
+lösung: hologrammdisplay
+beugung zunutze machen, fresnel zonenplatte
+benötigt laserlicht (farbe wird zeitgemultiplext)
+optimalerweise möchte man phase und amplitude des lichts steuern können, alternativ nur die phase (nur die amplitude?)
+je höher die auflösung desto größer die ablenkung (auflösung wird extrem wichtig)
+
+problem: berechnung schwierig, hohe auflösung nötig
+
+lösung des berechnungsproblems: eye tracking, bild für aktuelle bildebene berechnen statt jeden punkt auf ner anderen ebene
+
+fazit:
+lichtfelddisplays werden vmtl bald kommen
+hologrammdisplays werden etwas länger brauchen
