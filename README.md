@@ -1,2 +1,2 @@
 # presentation
-Some presentations I worked on, mainly for university
+Some presentations I worked on
